@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+## IMG dir
+
+r"C:\Users\fdnav\mbd_image_facemask\images"
