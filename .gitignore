@@ -129,6 +129,9 @@ dmypy.json
 .pyre/
 
 
-## IMG dir
+## TF models and images
 
-r"C:\Users\fdnav\mbd_image_facemask\images"
+Tensorflow/
+
+backup_images/
+
